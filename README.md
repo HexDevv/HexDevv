@@ -1,29 +1,19 @@
 <h1 align="center">Hi there 👋</h1>
 
-I'm Jacques, but I'm also known as Hex or Jack. I'm a 15 year old "kinda good" Node.js developer who loves to code in their spare time.
+I'm Ben, but I'm also known as Defectiveness or benne. I'm 15 and do stupid terrible code in my spare time.
 
 ## A couple projects I'm proud of
 <!--Name - Description - My role<br>-->
-[Jinkaku](https://top.gg/bot/706271163168587848) - A discord bot for roleplayers - Owner and Lead Dev<br>
-[KeyFM](https://keyfm.net) - An online radio station - Administrator<br>
-[CloudX](https://cloudx.wtf) - An online radio station - Bot Developer<br>
-Music4All - A discord bot which played music. My first ever Discord bot. Shutdown in 2018 - Owner and Lead Dev
+[Dual](https://dual.pw) - Online Radio Station - Owner<br>
+[Securio](https://securio.tech) - A DDoS Protection and web performance company - Support Staff<br>
+[Xonos](https://xonos.host) - Game and Web hosting company - Support Staff and Developer<br>
 
 ### Some stats about me
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=HexDevv)](https://hexdev.xyz)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=defectivenessyt)]
 
 
-<!--
-**HexDevv/HexDevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+grwepoijfrejgiperjigphojipotehjipoterhjpio[etrhsajipoetrhajipobngk
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+keyfm.net
+kfm.ooo
+discord.gg/key

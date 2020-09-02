@@ -13,3 +13,7 @@ I'm Ben, but I'm also known as Defectiveness or benne. I'm 15 and do stupid terr
 
 
 grwepoijfrejgiperjigphojipotehjipoterhjpio[etrhsajipoetrhajipobngk
+
+keyfm.net
+kfm.ooo
+discord.gg/key

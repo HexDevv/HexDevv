@@ -6,7 +6,6 @@ I'm Jacques, but I'm also known as Hex or Jack. I'm a 15 year old "kinda good" N
 <!--Name - Description - My role<br>-->
 [Jinkaku](https://top.gg/bot/706271163168587848) - A discord bot for roleplayers - Owner and Lead Dev<br>
 [KeyFM](https://keyfm.net) - An online radio station - Administrator<br>
-[CloudX](https://cloudx.wtf) - An online radio station - Bot Developer<br>
 Music4All - A discord bot which played music. My first ever Discord bot. Shutdown in 2018 - Owner and Lead Dev
 
 ### Some stats about me
